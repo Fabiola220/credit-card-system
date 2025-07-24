@@ -147,9 +147,3 @@ npm run client - to run client standalone.
     - email: ```cadel21249@vreagles.com```
     - password: ```Temp@123```
 
----
-
-### Developed By
-
- - [Abhishek Ranjan](https://www.github.com/arabhiar)
- - [Narendra Manglani](https://github.com/ishuu7)
